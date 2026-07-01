@@ -7,3 +7,4 @@ Some icon might be in the wrong place or sizing problem
 When increasing the font size if the website is mainly english but is mixed with other langues it will make the other sizes big which will look ugly
 And i don't know any more bugs for now
 If you find any please Leave a reply so i will try and fix it
+Here is a youtube link on how to install it(For chrome and opreaGX since i only have these two -_-)
