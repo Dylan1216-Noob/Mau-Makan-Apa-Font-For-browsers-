@@ -9,4 +9,5 @@ And i don't know any more bugs for now
 If you find any please Leave a reply so i will try and fix it
 Here is a youtube link on how to install it(For opreaGX -_-)
 https://youtu.be/6Ye4bxW_CHQ
-Chrome doesn't work for some reason maybe will fix it soon
+It works with chrome now
+Just go to chrome plugins and load unpack like opreaGX but use the Chrome version of the zip instead
