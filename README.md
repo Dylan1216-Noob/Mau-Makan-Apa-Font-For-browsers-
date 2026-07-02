@@ -11,3 +11,6 @@ Here is a youtube link on how to install it(For opreaGX -_-)
 https://youtu.be/6Ye4bxW_CHQ
 It works with chrome now
 Just go to chrome plugins and load unpack like opreaGX but use the Chrome version of the zip instead
+(the Chrome version support and tested:)
+Chrome(ofc)
+microsoft edge(yuck but it works)
